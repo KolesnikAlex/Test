@@ -21,7 +21,7 @@ public class RandomWords implements Readable {
       cb.append(lowers[rand.nextInt(lowers.length)]);
     }
     cb.append(" ");
-    return 10;  // Количество присоединенных символов 1
+    return 10;  // Количество присоединенных символов 
   }
   public static void main(String[] args) {
     Scanner s = new Scanner(new RandomWords(5));
