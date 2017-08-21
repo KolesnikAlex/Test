@@ -31,7 +31,7 @@ class Chess implements Game {
  
 //class ChessFactory implements GameFactory {
 //  public Game getGame() { return new Chess(); }
-//}	
+//}	111
  
 public class Games {
 //  public static void playGame(GameFactory factory) {
